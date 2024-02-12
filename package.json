@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://github.com/abdullahh01/MLSATask1",
+  "homepage": "https://abdullahh01.github.io/MLSATask1",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://github.com/abdullahh01/MLSATask1'",
+    "build-gh": "parcel build --public-url 'https://abdullahh01.github.io/MLSATask1'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
